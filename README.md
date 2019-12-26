@@ -1,2 +1,2 @@
-# Python-bot
-Оповещает в личных сообщениях о запланированных событиях
+# Physics
+Main purpose of this project is simulation of physic objects and fields
